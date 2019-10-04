@@ -10,12 +10,14 @@ public class HelloWorld {
 		
 
 		System.out.println("Meu nome n�o � Raylson");
+		
+		System.out.println("Carlos :)");
 
 		System.out.println("Denis esteve aqui!!!");
 		
-		double carlos = 5/0;
+		System.out.println("MAMA MAMA MAMA I just shot a man down");
 		
-		System.out.println(carlos);
+		System.out.println("Hugo FINALMENTE");
 	}
 
 }
