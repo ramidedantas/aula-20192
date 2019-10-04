@@ -18,6 +18,8 @@ public class HelloWorld {
 		System.out.println("MAMA MAMA MAMA I just shot a man down");
 		
 		System.out.println("Hugo FINALMENTE");
+		
+		System.out.println("Userkarf pode ser um pouco duro às vezes...");
 	}
 
 }
