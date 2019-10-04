@@ -9,6 +9,10 @@ public class HelloWorld {
 		System.out.println("Git Bash!!!");
 		
 		System.out.println("Denis esteve aqui!!!");
+		
+		double carlos = 5/0;
+		
+		System.out.println(carlos);
 	}
 
 }
