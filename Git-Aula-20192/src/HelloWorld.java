@@ -8,20 +8,6 @@ public class HelloWorld {
 
 		System.out.println("Git Bash!!!");
 		
-
-		System.out.println("Meu nome n�o � Raylson");
-		
-		System.out.println("Carlos :)");
-
-		System.out.println("Denis esteve aqui!!!");
-		
-		System.out.println("MAMA MAMA MAMA I just shot a man down");
-		
-		System.out.println("Hugo FINALMENTE");
-		
-		System.out.println("Userkarf pode ser um pouco duro às vezes...");
-		
-		System.out.println("MARCOS PASSOU AQUI!! xD");
 	}
 
 }
