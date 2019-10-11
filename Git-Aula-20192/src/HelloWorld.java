@@ -10,6 +10,8 @@ public class HelloWorld {
 		
 		System.out.println("Merge Master + Brach eclipse!!!");
 		System.out.println("Merge Master + branch bash!!!");
+		
+		System.out.println("Commit no novo branch");
 	}
 
 }
