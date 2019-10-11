@@ -8,8 +8,8 @@ public class HelloWorld {
 
 		System.out.println("Git Bash!!!");
 		
-		System.out.println("Merger Maste + Brach eclipse!!!");
-
+		System.out.println("Merge Master + Brach eclipse!!!");
+		System.out.println("Merge Master + branch bash!!!");
 	}
 
 }
