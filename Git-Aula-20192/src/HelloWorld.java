@@ -17,7 +17,7 @@ public class HelloWorld {
 		
 		System.out.println("DenisLopes Esteve aqui!!!");
 		
-		System.out.println("Marcos passou aqui!!!!");
+		System.out.println("Marcos passou aqui!!!");
 	}
 
 }
